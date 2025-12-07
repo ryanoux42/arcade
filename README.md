@@ -190,5 +190,5 @@ namespace Arc {
 
 - 1️⃣ **« Best Duo + l'autre Tristan la »** : tristan darodes-de-tailly, stanislas vaudois, tristan leturgie
 - 2️⃣ **« dark arigato »** : ryan hercule, come le-masne-de-chermont, jean-garice denoncin
-- 3️⃣ **« [B4][C++] - Arcade camil.kaddouri@epitech.eu »** : camil kaddouri, zacharie rodde
+- 3️⃣ **« [B4][C++] - Arcade zacharie.rodde@epitech.eu »** : zacharie rodde
 
